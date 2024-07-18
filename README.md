@@ -15,7 +15,7 @@
   <img align= "center" alt="Edvan-Canva" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
   <img align= "center" alt="Edvan-Gimp" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
 
-
+##
 <div>
   <a href= "https://www.linkedin.com/in/edvan-filho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" real="external" ></a>
   <a href="https://www.youtube.com/@Studywith_ED/videos"> <img src= "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
