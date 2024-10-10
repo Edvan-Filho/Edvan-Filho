@@ -4,7 +4,7 @@
 - 🎓 Estudando no Instituto Federal do Ceará, Telemática
 - 📚 Aprendendo front-end e cloud computer
 - 👨🏻‍🏫 Professor de matemática desde os 15 anos
-- 🚀 Pretendo estudar machine learning
+- 🚀 Pretendo estudar react
 
 <div>
 
