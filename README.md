@@ -18,7 +18,6 @@
 ##
 <div>
   <a href= "https://www.linkedin.com/in/edvan-filho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" real="external" ></a>
-  <a href="https://www.youtube.com/@Studywith_ED/videos"> <img src= "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.instagram.com/edvan__filho/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:edvanprofissional01@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
