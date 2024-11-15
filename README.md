@@ -11,7 +11,7 @@
   <img align= "center" alt="Edvan-HTML" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align= "center" alt="Edvan-CSS" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align= "center" alt="Edvan-JavaScript" height="30" wisth="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
  <img align= "center" alt="Edvan-Git" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align= "center" alt="Edvan-Github" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align= "center" alt="Edvan-Canva" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
