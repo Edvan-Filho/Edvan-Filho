@@ -2,9 +2,8 @@
 
 
 - 🎓 Estudando no Instituto Federal do Ceará, Telemática
-- 📚 Aprendendo front-end e cloud computer
 - 👨🏻‍🏫 Professor de matemática desde os 15 anos
-- 🚀 Pretendo estudar react
+- 🚀 Estudando Back-end
 
 <div style="display: inline_block"><br>
   <img align= "center" alt="Edvan-HTML" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
